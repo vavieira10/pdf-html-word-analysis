@@ -1,0 +1,6 @@
+numpy
+textblob
+python-poppler
+pkgconfig
+pdftotext
+
